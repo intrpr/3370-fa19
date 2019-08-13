@@ -47,7 +47,6 @@ Lorem ipsum dolor sit amet, [test link](https://www.google.com) adipiscing elit.
 ## 3. Images
 
 ![Large example image](http://placehold.it/800x400 "Large example image")
-
 ![Medium example image](http://placehold.it/400x200 "Medium example image")
 ![Small example image](http://placehold.it/200x200 "Small example image")
 
