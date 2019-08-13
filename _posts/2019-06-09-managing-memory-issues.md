@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Managing memory issues in an interpretation
+title: "09 Managing memory issues in an interpretation"
 categories: ASL3350 ASL3360 ASL3370 ASL English memory cognitive
 ---
 

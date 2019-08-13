@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Contexting interpretive work and depersonalizing feedback
+title: "04 Contexting interpretive work and depersonalizing feedback"
 categories: ASL3350 ASL3360 ASL3370 ASL3380 ASL English, interpreting work feedback depersonalization
 ---
 

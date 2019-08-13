@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Course Assignments"
+title: "12 Course Assignments"
 description: "Course assignment strategy and breakdown"
 date: 2019-08-13
 tags: 3370 assignments

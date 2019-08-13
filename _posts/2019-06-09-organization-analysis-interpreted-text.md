@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Organization and analysis of an interpreted text
+title: "07 Organization and analysis of an interpreted text"
 categories: ASL3350 ASL3370 ASL English interpretation organization analysis
 ---
 
