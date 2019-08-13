@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Attending and listening"
-description: "Listening for intent and context is more than just looking for signs that are recognizable"
+description: "More than just looking for signs that are recognizable"
 date: 2019-08-13
 tags: ASL3350 ASL3370 ASL English attending listening
 comments: true 
