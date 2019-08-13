@@ -49,9 +49,10 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6, p, li {
     font-weight: 400;
     color: $c-base__02;
+    margin: .5em 0;
 }
 
 
