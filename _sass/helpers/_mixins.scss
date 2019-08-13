@@ -15,8 +15,12 @@
 }
 
 // Font families
+@mixin ff--serif($font-weight: normal) {
+    font-family: 'IBM Plex Serif', 'Palatino Linotype', Palatino, Georgia, serif;
+    font-weight: $font-weight;
+}
 @mixin ff--sans-serif($font-weight: normal) {
-    font-family: 'Lexend Deca', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     font-weight: $font-weight;
 }
 
