@@ -41,8 +41,8 @@ Lorem ipsum dolor sit amet, [test link](https://www.google.com) adipiscing elit.
 
 ## 2a. Badges
 
-<code><span class="c-badge c-badge-pill c-badge-success">Success</span></code><br>
-<span class="c-badge c-badge-pill c-badge-primary">Primary</span> <span class="c-badge c-badge-pill c-badge-secondary">Secondar</span> <span class="c-badge c-badge-pill c-badge-success">Success</span> <span class="c-badge c-badge-pill c-badge-info">Info</span> <span class="c-badge c-badge-pill c-badge-warning">Warning</span> <span class="c-badge c-badge-pill c-badge-danger">Danger</span> <span class="c-badge c-badge-pill c-badge-light">Light</span> <span class="c-badge c-badge-pill c-badge-dark">Dark</span>
+`<span class="c-badge c-badge-pill c-badge-success">Success</span>`<br>
+<span class="c-badge c-badge-pill c-badge-primary">Primary</span> <span class="c-badge c-badge-pill c-badge-secondary">Secondary</span> <span class="c-badge c-badge-pill c-badge-success">Success</span> <span class="c-badge c-badge-pill c-badge-info">Info</span> <span class="c-badge c-badge-pill c-badge-warning">Warning</span> <span class="c-badge c-badge-pill c-badge-danger">Danger</span> <span class="c-badge c-badge-pill c-badge-light">Light</span> <span class="c-badge c-badge-pill c-badge-dark">Dark</span>
 
 ## 3. Images
 
