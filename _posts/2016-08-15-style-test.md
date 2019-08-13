@@ -41,9 +41,7 @@ Lorem ipsum dolor sit amet, [test link](https://www.google.com) adipiscing elit.
 
 ## 2a. Badges
 
-<p class="c-badge c-badge-pill c-badge-danger">Required</p>
-<p class="c-badge c-badge-pill c-badge-danger">Required</p>
-<p class="c-badge c-badge-pill c-badge-danger">Required</p>
+<span class="c-badge c-badge-pill c-badge-primary">Required</span> <span class="c-badge c-badge-pill c-badge-Secondary">Required</span> <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
 ## 3. Images
 
