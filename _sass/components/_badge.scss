@@ -1,0 +1,29 @@
+/* ==========================================================================
+   badge
+   ========================================================================== */
+
+.c-badge {
+  display: inline-block;
+	padding: .25em .7em;
+	line-height: 1.1;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: baseline;
+	border-radius: 1rem;
+  -webkit-transition: color 0.2s;
+}
+
+.c-badge-primary { color: $c-base__3; background-color: $c-accent__blue; }
+.c-badge-secondary { color: $c-base__3; background-color: $c-accent__base01; }
+.c-badge-success { color: $c-base__3; background-color: $c-accent__green; }
+.c-badge-info { color: $c-base__3; background-color: $c-accent__teal; }
+.c-badge-warning { color: $c-base__03; background-color: $c-accent__yellow; }
+.c-badge-danger { color: $c-base__3; background-color: $c-accent__red; }
+.c-badge-light { color: $c-base__03; background-color: $c-accent__base1; }
+.c-badge-dark { color: $c-base__3; background-color: $c-accent__base03; }
+
+.c-badge-pill {
+	padding-right: .6em;
+	padding-left: .6em;
+	border-radius: 10rem;
+}
