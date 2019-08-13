@@ -1,7 +1,10 @@
 ---
 layout: post
-title: Constructing and reformulation of message parts in an interpretation
-categories: ASL3350 ASL3370 ASL English construction reformulation message interpretation
+title: "Constructing and reformulation of message parts in an interpretation"
+description: "This section is intended to focus on the DNA and morphology of message"
+date: 2019-08-13
+tags: ASL3350 ASL3370 ASL English construction reformulation message interpretation
+comments: true
 ---
 
 ## h2
