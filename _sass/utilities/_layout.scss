@@ -27,11 +27,13 @@ table tr {
 }
 
 table tr:nth-child(2n) {
-	background-color: rgba(0,0,0,.03);
+	background-color: rgba(0,0,0,.02);
 }
 
 table tr th {
-	font-weight: bold;
+    font-weight: 500;
+    background: $c-accent__blue;
+    color: $c-base__3;
 	border: 1px solid $c-base__1; 
 	border-width: 1px 0 0 0;
 	text-align: left;
