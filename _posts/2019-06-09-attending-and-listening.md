@@ -16,10 +16,10 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 Readings/Discussions
 
 ### [Interpreting Culturally Rich Realities: Research Implications for Successful Interpretations (Cokely)](http://)
-This is a pre-published version of this article by Dennis Cokely, Dean of the ASL Program at Northeastern University, regarding meaning in ASL vocabularies and interpretations. (Published citation/reference: Cokely, D. (2001). Interpreting culturally rich realities: Research implications for successful interpretations. Journal of Interpretation, 2001.) We’ll be using this article to talk about message intent, vis-a-vis listening.  <span class="badge badge-pill badge-danger">Required</span>
+This is a pre-published version of this article by Dennis Cokely, Dean of the ASL Program at Northeastern University, regarding meaning in ASL vocabularies and interpretations. (Published citation/reference: Cokely, D. (2001). Interpreting culturally rich realities: Research implications for successful interpretations. Journal of Interpretation, 2001.) We’ll be using this article to talk about message intent, vis-a-vis listening. <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
 ### [Interpreters, Conversational Style, and Gender at Work](http://) (Morgan)
-This is chapter 5 in Hauser (2008) Deaf Professionals and Designated Interpreters by colleague [Elizabeth Morgan](http://www.linkedin.com/pub/elizabeth-morgan/48/b23/821). This reading addresses the concept of power language and the role of gender in creating power/less language. <span class="badge badge-pill badge-danger">Required</span>
+This is chapter 5 in Hauser (2008) Deaf Professionals and Designated Interpreters by colleague [Elizabeth Morgan](http://www.linkedin.com/pub/elizabeth-morgan/48/b23/821). This reading addresses the concept of power language and the role of gender in creating power/less language. <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
 ### [Does gender style contribute to tech industry diversity?](http://)
 A more-recent corollary to Morgan’s article, this discussion of resume writing styles in Fortune Magazine explores an interesting point about the different (perceived) narrative style of men and women. Author Kieran Snyder observes differences in writing length, detail inclusion, credential inclusion, and personal background. How do these styles impact message creation, (does it) impact Deaf narrative creation, and interpretation approaches?
