@@ -1,10 +1,7 @@
 ---
 layout: post
-title: "About This Course"
-description: "Learning objectives and previous student experiences"
-date: 2019-08-13
-tags: 3370 about
-comments: true
+title: About This Course
+permalink: /about/
 ---
 
 > This is a temporary site used for the Fall 2019 Semester. This site should be used in conjunction with [the class Canvas site](https://uvu.instructure.com) and the [class GoREACT site](https://goreact.com).
