@@ -13,14 +13,14 @@
   -webkit-transition: color 0.2s;
 }
 
-.c-badge-primary { color: $c-base__3; background-color: $c-accent__blue; }
-.c-badge-secondary { color: $c-base__3; background-color: $c-base__01; }
-.c-badge-success { color: $c-base__3; background-color: $c-accent__green; }
-.c-badge-info { color: $c-base__3; background-color: $c-accent__teal; }
+.c-badge-primary { color: $c-base__4; background-color: $c-accent__blue; }
+.c-badge-secondary { color: $c-base__4; background-color: $c-base__01; }
+.c-badge-success { color: $c-base__4; background-color: $c-accent__green; }
+.c-badge-info { color: $c-base__4; background-color: $c-accent__teal; }
 .c-badge-warning { color: $c-base__03; background-color: $c-accent__yellow; }
-.c-badge-danger { color: $c-base__3; background-color: $c-accent__red; }
+.c-badge-danger { color: $c-base__4; background-color: $c-accent__red; }
 .c-badge-light { color: $c-base__03; background-color: $c-base__1; }
-.c-badge-dark { color: $c-base__3; background-color: $c-base__03; }
+.c-badge-dark { color: $c-base__4; background-color: $c-base__03; }
 
 .c-badge-pill {
 	padding-right: .6em;
