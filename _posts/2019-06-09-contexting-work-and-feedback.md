@@ -26,7 +26,7 @@ Chapter 11 (pp. 93–100)
 
 <p class="h4">Talking about what we talk about</p>
 ### [Feedback: A Conversation about ‘The Work’ Between Learners and Colleagues (Witter-Merithew)](http://)
-This article contains an unpublished article (2001) by Anna Witter-Merithew, Director of the Mid-America Regional Interpreter Education Center (MARIE) and an assistant director of the [DoIT Center (now Department of American Sign Language and Interpreting Studies) at the University of Northern Colorado](http://www.unco.edu/doit), regarding how we have historically spoken about interpreting work and posits a new paradigm of discussion. <span class="badge badge-pill badge-danger">Required</span>
+This article contains an unpublished article (2001) by Anna Witter-Merithew, Director of the Mid-America Regional Interpreter Education Center (MARIE) and an assistant director of the [DoIT Center (now Department of American Sign Language and Interpreting Studies) at the University of Northern Colorado](http://www.unco.edu/doit), regarding how we have historically spoken about interpreting work and posits a new paradigm of discussion. <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
 [Text/HTML version](http://) of “Feedback: A Conversation about ‘The Work’...”
 
@@ -37,15 +37,15 @@ Colonomos’ “yellow sheet.” Simple yet essential recontexting of feedback l
 This 2012 thesis by Western Oregon University graduate Emily Ott explores the incidence of intergenerational communication conflict and horizontal violence between new and experienced interpreters.
 
 ### [“Why Is It So Hard to Accept Feedback”](http://)
-Short but applicable vlog by writer/educator Trudy Suggs on how to view feedback and commentary on our work. Based on our class discussion about reframing feedback and evaluation discourse, can you see how this would be important? (From Vimeo) <span class="badge badge-pill badge-success">Highly Recommended</span>
+Short but applicable vlog by writer/educator Trudy Suggs on how to view feedback and commentary on our work. Based on our class discussion about reframing feedback and evaluation discourse, can you see how this would be important? (From Vimeo) <span class="c-badge c-badge-pill c-badge-success">Highly Recommended</span>
 
 ### [“How to give (and not give) feedback”](http://)
-Courtesy of our friends at [GoREACT](http://www.goreact.com/), this article correlates our other readings about effective feedback (specificity, timing, focus on product not person, etc.) <span class="badge badge-pill badge-danger">Required</span>
+Courtesy of our friends at [GoREACT](http://www.goreact.com/), this article correlates our other readings about effective feedback (specificity, timing, focus on product not person, etc.) <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
 [PDF version](http://) of ”How to Give (And Not Give) Feedback”
 
 ### [How to Turn Disagreement Into a Team Strength](https://blog.doist.com/how-to-turn-disagreement-into-a-team-strength-7bb25fec25f)
-Again, written from the perspective of product designers, this article reminds is that disagreement is not inherently bad, if we’re both working towards the same end. “You are not your idea, and if you identify too closely with your ideas, you will take offense when they are challenged.” Consider how disagreeing with your team member can actually be productive in the work we produce. <span class="badge badge-pill badge-success">Highly Recommended</span>
+Again, written from the perspective of product designers, this article reminds is that disagreement is not inherently bad, if we’re both working towards the same end. “You are not your idea, and if you identify too closely with your ideas, you will take offense when they are challenged.” Consider how disagreeing with your team member can actually be productive in the work we produce. <span class="c-badge c-badge-pill c-badge-success">Highly Recommended</span>
 
 <p class="h4">Measuring work with rubrics</p>
 ### [Transliteration Equivalency Rubric](http://)
@@ -58,13 +58,13 @@ This is EIPA’s rating form (20XX) used to measure equivalency and accuracy on 
 While we won’t be directly referencing DC-S in this discussion about evaluation language, clearly any discussion about evaluation of our work is informed and benefitted by understanding how decision-making processes impacts our interpreting choices.
 
 ### [The Demand Control Schema for Interpreting Work (DC-S)](http://www.urmc.rochester.edu/deaf-wellness-center/demand-control-schema/overview.cfm)
-Definition and explanation of Dean & Pollard’s Demand Control Schema. <span class="badge badge-pill badge-danger">Required</span>
+Definition and explanation of Dean & Pollard’s Demand Control Schema. <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
 ### [Consumers and Service Effectiveness in Interpreting Work: A Practice Profession Perspective (2005)](http://)
-Article by Dean & Pollard (2005) discusses the concept of SL interpreting as a practice profession and why overlooking outside factors on SL interpreters is potentially dangerous to the profession.  (Read pp. 259–271; stop at “Ethics, Consumers, and...”) <span class="badge badge-pill badge-danger">Required</span>
+Article by Dean & Pollard (2005) discusses the concept of SL interpreting as a practice profession and why overlooking outside factors on SL interpreters is potentially dangerous to the profession.  (Read pp. 259–271; stop at “Ethics, Consumers, and...”) <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
 ### [Application of Demand-Control Theory to Sign Language Interpreting: Implications for Stress and Interpreter Training (2001)](http://jdsde.oxfordjournals.org/content/6/1/1.full.pdf)
-This seminal work in the DC-S theory framework introduces various types of demands — (para)linguistic, environmental, interpersonal, and intrapersonal — and discusses their impacts on interpreter psychology.<span class="badge badge-pill badge-success">Recommended</span>
+This seminal work in the DC-S theory framework introduces various types of demands — (para)linguistic, environmental, interpersonal, and intrapersonal — and discusses their impacts on interpreter psychology.<span class="c-badge c-badge-pill c-badge-success">Recommended</span>
 
 ### [Apprenticeship in SL Interpreting](http://www.streetleverage.com/2012/08/new-lamps-for-old-apprenticeship-in-sign-language-interpreting)
 Long needed yet sorely misunderstood, apprenticeships and supervision are the next frontier in the elevation of the field. Do you agree with Peterson and/or commenters here?

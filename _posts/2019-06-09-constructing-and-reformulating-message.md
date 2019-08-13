@@ -16,13 +16,13 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 Readings/Discussions
 
 ### [Affect (Colonomos)](http://)
-Colonomos’ “blue sheet.” This description of affect defines two constituents of affect: **text** (form/lexical units only, no speaker intonation, expressions, gestures, etc.) and **person** (speaker expressions, intonation, gestures, eye behaviors). Incorporating these components from the source message helps the resulting interpretation to be more equivalent. (Don’t download this unless you lose the blue copy handed out in class.) <span class="badge badge-pill badge-danger">Required</span>
+Colonomos’ “blue sheet.” This description of affect defines two constituents of affect: **text** (form/lexical units only, no speaker intonation, expressions, gestures, etc.) and **person** (speaker expressions, intonation, gestures, eye behaviors). Incorporating these components from the source message helps the resulting interpretation to be more equivalent. (Don’t download this unless you lose the blue copy handed out in class.) <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
 ### [The role of message analysis in interpretation](http://)
-Printed in the proceedings of the 1985 RID Convention (Marina L. McIntire, ed.; Silver Spring, Maryland: RID Publications, 1986), this article by Isham is one of the seminal pieces in SL interpretation text analysis. The Patrie text talks about the importance of “illocutionary force;” c.f. Isham’s discussion of function (p. 156), affect (p. 158), and contextual force (p. 159) for additional exposition on the topic. <span class="badge badge-pill badge-success">Highly Recommended</span>
+Printed in the proceedings of the 1985 RID Convention (Marina L. McIntire, ed.; Silver Spring, Maryland: RID Publications, 1986), this article by Isham is one of the seminal pieces in SL interpretation text analysis. The Patrie text talks about the importance of “illocutionary force;” c.f. Isham’s discussion of function (p. 156), affect (p. 158), and contextual force (p. 159) for additional exposition on the topic. <span class="c-badge c-badge-pill c-badge-success">Highly Recommended</span>
 
 ### [Register (Stringham)](http://)
-Discussion of register in sign and spoken languages <span class="badge badge-pill badge-danger">Required</span>
+Discussion of register in sign and spoken languages <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
 ### [Constructing Meaning (Colonomos)](http://)
 Colonomos’ “orange sheet.” This diagram helps to explain where, how, and what meaning is derived in a speaker’s/signer’s discourse. All of these constituent domains add up to a speaker’s/signer’s intention. (Don’t download this unless you lose the orange copy handed out in class.)

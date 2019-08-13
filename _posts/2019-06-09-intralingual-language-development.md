@@ -16,21 +16,21 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 Readings/Discussions
 
 ### [Interpreting Culturally Rich Realities: Research Implications for Successful Interpretations (Cokely)](http://)
-This is a pre-published version of this article by Dennis Cokely, Dean of the ASL Program at Northeastern University, regarding meaning in ASL vocabularies and interpretations. (Published citation/reference: Cokely, D. (2001). Interpreting culturally rich realities: Research implications for successful interpretations. *Journal of Interpretation*, 2001.) We’ll be using this article to talk about message intent, vis-a-vis listening. <span class="badge badge-pill badge-danger">Required</span>
+This is a pre-published version of this article by Dennis Cokely, Dean of the ASL Program at Northeastern University, regarding meaning in ASL vocabularies and interpretations. (Published citation/reference: Cokely, D. (2001). Interpreting culturally rich realities: Research implications for successful interpretations. *Journal of Interpretation*, 2001.) We’ll be using this article to talk about message intent, vis-a-vis listening. <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
 ### [Cohesion & Transitional Devices (Spoken English)](http://)
-This two-page handout taxonomizes four types of spoken English cohesion and transitional devices: additive, adversative, causal, and sequential transitions. Helpful in organizing mind/discoursal maps. <span class="badge badge-pill badge-danger">Required</span>
+This two-page handout taxonomizes four types of spoken English cohesion and transitional devices: additive, adversative, causal, and sequential transitions. Helpful in organizing mind/discoursal maps. <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
 ***
 
 {% include parts-of-speech.html %}
 
-### [Understanding Registers of Language (ASL and English)](http://) <span class="badge badge-pill badge-danger">Required</span>
+### [Understanding Registers of Language (ASL and English)](http://) <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
 ### [English interpretation production notes](http://intrpr.info/library/leahy-english-exhaustion.pdf) (courtesy [Dr. Anne Leahy](http://www.anneleahy.com/))
 
 ### Look-Pause-Nod (Napier, Carmichael, & Wiltshire) 
-(pp. 36 – 38.) This is chapter 2 in Hauser, 2008, *Deaf Professionals and Designated Interpreters* by Napier, Carmichael, & Wiltshire. Among important points like engagement via eye contact and attention, the conclusion of this paper reiterates the importance of appropriate and mature source language choices. <span class="badge badge-pill badge-success">Recommended</span>
+(pp. 36 – 38.) This is chapter 2 in Hauser, 2008, *Deaf Professionals and Designated Interpreters* by Napier, Carmichael, & Wiltshire. Among important points like engagement via eye contact and attention, the conclusion of this paper reiterates the importance of appropriate and mature source language choices. <span class="c-badge c-badge-pill c-badge-success">Recommended</span>
 
 ### [Interpreters for Deaf Cut Through D.C.’s Political Jargon](http://online.wsj.com/news/articles/SB10001424052702304773104579266792997670058)
 Intralingual prowess cuts both ways: interpreters need to now how to pick the right words, but also be able to render equivalent ASL. Disappointing to see his strategy of “When lost in a minefield of jargon, the rule is ‘Spell, and you’re out of there,’” though.

@@ -27,13 +27,13 @@ Readings/Discussions
 
 <p class="h4">Textbook chapters</p>
 ### Consecutive Interpreting from English (Patrie)
-Unit 4 (pp. 95–115) <span class="badge badge-pill badge-danger">Required</span>
+Unit 4 (pp. 95–115) <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
 ### [Content Mapping (Witter-Merithew)](http://www.unco.edu/doit/resources/publication_pdfs/Content%20Mapping.pdf)
 This excellent article explains a cognitive exercise called content mapping, which can be used to visualize a text.
 
 ### [Topic Maps: From Information to Discourse Architecture](http://)
-A non-SL interpreting related and slightly more academic discussion of information as “discourse architecture.” From the literature in information architecture, ‘topic maps’ visually demonstrate cohesion and the semantic organization of topics. Discourse architecture is a helpful framework for organizing interpreted texts. (Citation: Johnsen, L. (2010). Topic Maps: From Information to Discourse Architecture. *Journal of Information Architecture.* 2(1). Retrieved from [http://journalofia.org/volume2/issue1/02-johnsen](http://journalofia.org/volume2/issue1/02-johnsen).) <span class="badge badge-pill badge-danger">Required</span>
+A non-SL interpreting related and slightly more academic discussion of information as “discourse architecture.” From the literature in information architecture, ‘topic maps’ visually demonstrate cohesion and the semantic organization of topics. Discourse architecture is a helpful framework for organizing interpreted texts. (Citation: Johnsen, L. (2010). Topic Maps: From Information to Discourse Architecture. *Journal of Information Architecture.* 2(1). Retrieved from [http://journalofia.org/volume2/issue1/02-johnsen](http://journalofia.org/volume2/issue1/02-johnsen).) <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
 ### [The Meaning of Texts (Witter-Merithew)](http://www.unco.edu/doit/resources/publication_pdfs/The%20Meaning%20of%20Texts.pdf)
 Reprinted from Witter-Merithew, A. (2001). Understanding the meaning of texts and reinforcing foundation skills through discourse analysis. In C. Nettles (Ed.), Tapestry of Our Worlds, Proceedings of the 17th National Conference of the Registry of Interpreters for the Deaf, p. 177-192.
@@ -42,7 +42,7 @@ Reprinted from Witter-Merithew, A. (2001). Understanding the meaning of texts an
 Although written for interpreter educators, this article by Winston & Monikowski, along with the Content Mapping article above, represent seminal works in ASL interpreter education. The concept of discourse mapping (see also [advance organizers](http://en.wikipedia.org/wiki/David_Ausubel) [Ausubel] and [concept mapping](http://en.wikipedia.org/wiki/Concept_map) [Novak & Gowin]) has become an important tool in helping interpreters cognitively map (peg, chunk, link, self-monitor) ideas in discoursal texts.
 
 ### [Cohesion & Transitional Devices (Spoken English)](http://)
-This two-page handout taxonomizes four types of spoken English cohesion and transitional devices: additive, adversative, causal, and sequential transitions. Helpful in organizing mind/discoursal maps. <span class="badge badge-pill badge-danger">Required</span>
+This two-page handout taxonomizes four types of spoken English cohesion and transitional devices: additive, adversative, causal, and sequential transitions. Helpful in organizing mind/discoursal maps. <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
 ### [Constructing Meaning (Colonomos): Discourse Analysis/Notetaking Tool](http://)
 Colonomos’ “orange sheet.” This diagram helps to explain where, how, and what meaning is derived in a speaker’s/signer’s discourse. All of these constituent domains add up to a speaker’s/signer’s intention. (Don’t download this unless you lose the orange copy handed out in class.)
