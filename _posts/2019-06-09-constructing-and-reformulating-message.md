@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Constructing and reformulation of message parts in an interpretation
-categories: ASL3350 ASL3370 ASL English construction reformtulation message interpretation
+categories: ASL3350 ASL3370 ASL English construction reformulation message interpretation
 ---
 
 ## h2

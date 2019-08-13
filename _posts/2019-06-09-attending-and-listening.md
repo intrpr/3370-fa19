@@ -1,7 +1,10 @@
 ---
 layout: post
-title: Attending and listening
-categories: ASL3350 ASL3370 ASL English attending listening
+title: "Attending and listening"
+description: "An integral part of the cognitive interpretation process"
+date: 2019-08-13
+tags: ASL3350 ASL3370 ASL English attending listening
+comments: true 
 ---
 
 ## h2
