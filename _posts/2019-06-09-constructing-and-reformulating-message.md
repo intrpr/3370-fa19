@@ -13,7 +13,7 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 * How should we define **affect**?
 * What are some ways that we can measure message intention (‘message analysis’ [Isham])? What are we looking for when we rapidly assess message intent?
 
-Readings/Discussions
+#### Readings/Discussions
 
 ### [Affect (Colonomos)](http://)
 Colonomos’ “blue sheet.” This description of affect defines two constituents of affect: **text** (form/lexical units only, no speaker intonation, expressions, gestures, etc.) and **person** (speaker expressions, intonation, gestures, eye behaviors). Incorporating these components from the source message helps the resulting interpretation to be more equivalent. (Don’t download this unless you lose the blue copy handed out in class.) <span class="c-badge c-badge-pill c-badge-danger">Required</span>
