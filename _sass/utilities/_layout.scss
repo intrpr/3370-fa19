@@ -14,13 +14,13 @@
 table {
 	padding: 0;
     width: 100%;
-    display: block;
+    disqqplay: block;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
 }
 
 table tr {
-	border: 1px solid $c-base__1; 
+	border: 1px solid $c-base__3; 
 	border-width: 1px 0 0 0;
 	margin: 0;
     padding: 0;
@@ -34,8 +34,8 @@ table tr:nth-child(2n) {
 table tr th {
     font-weight: 500;
     background: $c-accent__blue;
-    color: $c-base__3;
-	border: 1px solid $c-base__1; 
+    color: $c-base__3 !important;
+	border: 1px solid $c-base__3; 
 	border-width: 1px 0 0 0;
 	text-align: left;
 	margin: 0;
@@ -46,7 +46,7 @@ table tr th {
 table tr th a { color: $c-base__3}
 
 table tr td {
-	border: 1px solid $c-base__1; 
+	border: 1px solid $c-base__3; 
 	border-width: 1px 0 0 0;
 	text-align: left;
 	margin: 0;
