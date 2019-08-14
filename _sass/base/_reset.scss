@@ -22,7 +22,7 @@ html {
 }
 
 body {
-	@include ff--sans-serif(400);
+	@include ff--serif(400);
 	-webkit-font-smoothing: antialiased;
 }
 
