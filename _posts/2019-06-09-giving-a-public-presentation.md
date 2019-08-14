@@ -12,7 +12,7 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 * What behaviors are expected in a public presentation? How should we consider formality (register), word choice, prosody, and anything else in a public environment?
 * Given the formality and presentation type, how should we structure our discourse?
 
-Readings/Discussions
+#### Readings/Discussions
 
 ### [Presentation Tips for Public Speaking](http://www.aresearchguide.com/3tips.html)
 Tips for and portal to links dealing with how to give a public presentation. You’ll need this for our first assignments. <span class="c-badge c-badge-pill c-badge-danger">Required</span>
