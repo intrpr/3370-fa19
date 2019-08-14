@@ -21,7 +21,7 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 
 #### Readings/Discussions
 
-##### Textbook chapters
+###### Textbook chapters
 ### Transliterating: Show Me The English (Kelly)
 Chapter 11 (pp. 93–100)
 
@@ -35,13 +35,13 @@ This article contains an unpublished article (2001) by Anna Witter-Merithew, Dir
 ### [Non-evaluative feedback language](http://intrpr.info/library/colonomos-feedback-language-yellow.pdf)
 Colonomos’ “yellow sheet.” Simple yet essential recontexting of feedback language we use with interpreter colleagues. To be used in class discussions and interpretive work processing. Live it. Love it. Learn it. (Don’t download this unless you lose the yellow copy handed out in class.) 
 
-### [“Do We Eat Our Young and One Another? Horizontal Violence Among Signed Language Interpreters”](http://digitalcommons.wou.edu/cgi/viewcontent.cgi?article=1004&context=theses)
+### [Do We Eat Our Young and One Another? Horizontal Violence Among Signed Language Interpreters](http://digitalcommons.wou.edu/cgi/viewcontent.cgi?article=1004&context=theses)
 This 2012 thesis by Western Oregon University graduate Emily Ott explores the incidence of intergenerational communication conflict and horizontal violence between new and experienced interpreters.
 
-### [“Why Is It So Hard to Accept Feedback”](http://www.tswriting.com/why-is-it-so-hard-to-accept-feedback)
+### [Why Is It So Hard to Accept Feedback](http://www.tswriting.com/why-is-it-so-hard-to-accept-feedback)
 Short but applicable vlog by writer/educator Trudy Suggs on how to view feedback and commentary on our work. Based on our class discussion about reframing feedback and evaluation discourse, can you see how this would be important? (From Vimeo) <span class="c-badge c-badge-pill c-badge-success">Highly Recommended</span>
 
-### [“How to give (and not give) feedback”](https://blog.goreact.com/2016/11/02/how-to-give-and-not-give-feedback)
+### [How to give (and not give) feedback](https://blog.goreact.com/2016/11/02/how-to-give-and-not-give-feedback)
 Courtesy of our friends at [GoREACT](http://www.goreact.com), this article correlates our other readings about effective feedback (specificity, timing, focus on product not person, etc.) <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
 > [PDF version](http://intrpr.info/library/anderson-goreact-give-feedback.pdf) of ”How to Give (And Not Give) Feedback”
