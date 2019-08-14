@@ -118,11 +118,13 @@
 }
 
 .wrapper {
-  padding: 10px;
-  border: 1px solid LightGrey;
+  padding: .7em;
+  border: 1px solid $c-base__3;
   display: inline-block;
   margin: 0 auto;
 }
+
+.wrapper p { margin: 0;}
 
 #left {
   float: left;
