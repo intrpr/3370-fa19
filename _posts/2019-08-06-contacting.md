@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "15 Contacting Me"
+title: "Contacting Me"
 description:
 date: 2019-08-13
 categories: ASL3370 contacting students interaction

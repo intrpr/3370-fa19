@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "18 Video Presentation Styling and Academic ASL"
+title: "Video Presentation Styling and Academic ASL"
 description:
 date: 2019-08-13
 tags: video production academic asl assignment
@@ -35,7 +35,7 @@ With easy access to movie production software like [iMovie](https://www.apple.co
 * centering yourself with enough space on the left and right of the frame also creates a professional aesthetic and allow room for on-screen titling if necessary
 
 ## Signer Linguistic Choices
-While it can be used in other environments, Academic ASL is most often utilized in academic settings and is characterized by slightly larger signing spaces, deliberate word order, more pronounced fingerspelling/numbering, and controlled use of space. This handout on register pronunciation helps elaborate [what ASL looks like in both informal and formal settings](http://). See the examples below for more defined illustrations.
+While it can be used in other environments, Academic ASL is most often utilized in academic settings and is characterized by slightly larger signing spaces, deliberate word order, more pronounced fingerspelling/numbering, and controlled use of space. This handout on register pronunciation helps elaborate [what ASL looks like in both informal and formal settings](http://intrpr.info/library/stringham-understanding-register-formality.pdf). See the examples below for more defined illustrations.
 
 ## Examples of Academic ASL
 

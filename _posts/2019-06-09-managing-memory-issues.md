@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "09 Managing memory issues in an interpretation"
+title: "Managing memory issues in an interpretation"
 description: How do I learn? How can I leverage my strengths in memory?
 date: 2019-08-13
 tags: ASL3350 ASL3360 ASL3370 ASL English memory cognitive
