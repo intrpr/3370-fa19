@@ -3,14 +3,15 @@
    ========================================================================== */
 
 .c-badge {
-  display: inline-block;
+	display: inline-block;
+  	font-weight: 500;
 	padding: .25em .7em;
 	line-height: 1.1;
 	text-align: center;
 	white-space: nowrap;
 	vertical-align: baseline;
 	border-radius: 1rem;
-  -webkit-transition: color 0.2s;
+  	-webkit-transition: color 0.2s;
 }
 
 .c-badge-primary { color: $c-base__4; background-color: $c-accent__blue; }
