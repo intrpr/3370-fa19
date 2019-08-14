@@ -45,7 +45,9 @@ Lorem ipsum dolor sit amet, [test link](https://www.google.com) adipiscing elit.
 <span class="c-badge c-badge-pill c-badge-primary">Primary</span> <span class="c-badge c-badge-pill c-badge-secondary">Secondary</span> <span class="c-badge c-badge-pill c-badge-success">Success</span> <span class="c-badge c-badge-pill c-badge-info">Info</span> <span class="c-badge c-badge-pill c-badge-warning">Warning</span> <span class="c-badge c-badge-pill c-badge-danger">Danger</span> <span class="c-badge c-badge-pill c-badge-light">Light</span> <span class="c-badge c-badge-pill c-badge-dark">Dark</span>
 
 ## 2b. Alerts
-
+<div class="c-alert c-alert-danger" role="alert">
+	<span class="c-badge c-badge-pill c-badge-danger">Please note:</span> Text
+</div>
 
 ## 3. Images
 
