@@ -1,0 +1,20 @@
+/* ==========================================================================
+   badge
+   ========================================================================== */
+
+.c-alert {
+    position: relative;
+    padding: .75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: .25rem
+}
+
+.c-alert-primary { color: $c-accent__blue; background: rgba($c-accent__blue, .2); }
+.c-alert-secondary { color: $c-base__4; background: rgba($c-base__01, .2); }
+.c-alert-success { color: $c-accent__green; background: rgba($c-accent__green, .2); }
+.c-alert-info { color: $c-accent__teal; background: rgba($c-accent__teal, .2); }
+.c-alert-warning { color: $c-accent__yellow; background: rgba($c-accent__yellow, .2); }
+.c-alert-danger { color: $c-accent__red; background: rgba($c-accent__red, .2); }
+.c-alert-light { color: $c-base__2; background: rgba($c-base__2, .2); }
+.c-alert-dark { color: $c-base__03; background: rgba($c-base__03, .2); }
