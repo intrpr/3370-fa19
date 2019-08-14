@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "05 Interlingual language development"
-description: Interpreting is a public activity
+description: Developing semantic understanding between spoken English and signed languages
 date: 2019-08-13
 tags: ASL3350 ASL3360 ASL3370 ASL3380 ASL English language interlingual
 comments: true

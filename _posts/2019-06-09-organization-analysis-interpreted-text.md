@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "07 Organization and analysis of an interpreted text"
-categories: ASL3350 ASL3370 ASL English interpretation organization analysis
+description: Visualizing a text is just as important as interpreting it
+date: 2019-08-13
+tags: ASL3350 ASL3370 ASL English interpretation organization analysis
+comments: true 
 ---
 
 ## “Ninety percent of the game is mental. The other half is physical.” (Yogi Berra) Visualizing a text is just as important as interpreting it.

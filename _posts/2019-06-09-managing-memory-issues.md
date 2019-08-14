@@ -1,12 +1,15 @@
 ---
 layout: post
 title: "09 Managing memory issues in an interpretation"
-categories: ASL3350 ASL3360 ASL3370 ASL English memory cognitive
+description: How do I learn? How can I leverage my strengths in memory?
+date: 2019-08-13
+tags: ASL3350 ASL3360 ASL3370 ASL English memory cognitive
+comments: true
 ---
 
-## h2
+## Insane in the membrane
 
-<p class="lead">Arguably the greatest challenge to equivalency in an interpretation event is the ability to control the data shared during the event: who did what to whom? What was the number? Did s/he just spell ‘car’ or ‘cat’?</p>
+<p class="lead">Human cognition is terribly unique and idiosyncratic and yet more understood now than every before. Understanding what the brain does during an interpreting event leads to better equivalent work product. Arguably the greatest challenge to equivalency in an interpretation event is the ability to control the data shared during the event: who did what to whom? What was the number? Did s/he just spell ‘car’ or ‘cat’?</p>
 
 Here are some bullet points/learning outcomes of which we might want to be aware:
 * How do I learn? Am I more of a verbal, auditory, or kinesthetic learner? How does that impact my ability to produce a real-time spoken language interpretation?
