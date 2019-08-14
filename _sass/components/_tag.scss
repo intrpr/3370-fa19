@@ -42,7 +42,7 @@
 .c-tag::after {
   background: #fff;
   border-bottom: 13px solid transparent;
-  border-left: 10px solid #eee;
+  border-left: 10px solid $c-accent__blue;
   border-top: 13px solid transparent;
   content: '';
   position: absolute;
@@ -51,12 +51,12 @@
 }
 
 .c-tag:hover {
-  background-color: $c-accent__blue;
+  background-color: $c-accent__darkblue;
   color: white;
 }
 
 .c-tag:hover::after {
-   border-left-color: $c-accent__blue;
+   border-left-color: $c-accent__darkblue;
 }
 
 .c-c-tag {
