@@ -22,14 +22,12 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 ### Transliterating: Show Me The English (Kelly)
 Chapter 11 (pp. 93–100)
 
-***
-
 #### Talking about what we talk about
 
 ### [Feedback: A Conversation about ‘The Work’ Between Learners and Colleagues (Witter-Merithew)](http://)
 This article contains an unpublished article (2001) by Anna Witter-Merithew, Director of the Mid-America Regional Interpreter Education Center (MARIE) and an assistant director of the [DoIT Center (now Department of American Sign Language and Interpreting Studies) at the University of Northern Colorado](http://www.unco.edu/doit), regarding how we have historically spoken about interpreting work and posits a new paradigm of discussion. <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
-[Text/HTML version](http://) of “Feedback: A Conversation about ‘The Work’...”
+> [Text/HTML version](http://) of “Feedback: A Conversation about ‘The Work’...”
 
 ### [Non-evaluative feedback language (Colonomos)](http://)
 Colonomos’ “yellow sheet.” Simple yet essential recontexting of feedback language we use with interpreter colleagues. To be used in class discussions and interpretive work processing. Live it. Love it. Learn it. (Don’t download this unless you lose the yellow copy handed out in class.) 
@@ -43,7 +41,7 @@ Short but applicable vlog by writer/educator Trudy Suggs on how to view feedback
 ### [“How to give (and not give) feedback”](http://)
 Courtesy of our friends at [GoREACT](http://www.goreact.com/), this article correlates our other readings about effective feedback (specificity, timing, focus on product not person, etc.) <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
-[PDF version](http://) of ”How to Give (And Not Give) Feedback”
+> [PDF version](http://) of ”How to Give (And Not Give) Feedback”
 
 ### [How to Turn Disagreement Into a Team Strength](https://blog.doist.com/how-to-turn-disagreement-into-a-team-strength-7bb25fec25f)
 Again, written from the perspective of product designers, this article reminds is that disagreement is not inherently bad, if we’re both working towards the same end. “You are not your idea, and if you identify too closely with your ideas, you will take offense when they are challenged.” Consider how disagreeing with your team member can actually be productive in the work we produce. <span class="c-badge c-badge-pill c-badge-success">Highly Recommended</span>
