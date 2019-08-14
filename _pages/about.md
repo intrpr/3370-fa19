@@ -6,8 +6,6 @@ permalink: /about/
 
 > This is a temporary site used for the Fall 2019 Semester. This site should be used in conjunction with [the class Canvas site](https://uvu.instructure.com) and the [class GoREACT site](https://goreact.com).
 
-{% include figure.html image="https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg" alt="deaf older female teacher signing to a classroom in front of a green-colored blackboard; https://www.tulsacc.edu/sites/default/files/styles/program_header/public/program/header-image/asl_program_5.jpg" %}
-
 This course is an introduction to the process and skills required to produce unidirectional signed-to-spoken English language interpretations between Deaf and nondeaf people. Upon successful completion of this course, students should be able to:
 
 1. incorporate practical applications of non-judgmental language (Colonomos, Witter-Merrithew, et al.) in evaluating personal and colleague work product
