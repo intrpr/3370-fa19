@@ -29,8 +29,7 @@
 
 .c-article__title {
     @include fs--heading-1;
-    color: $c-base__02;
-    margin: 0 0 1em 0 !important; 
+    color: $c-base__02; 
 }
 
 .c-article__time {
