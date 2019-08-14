@@ -21,7 +21,7 @@
   height: 26px;
   line-height: 26px;
   padding: 0 20px 0 23px;
-  border-radius: .75em;
+  border-radius: .5em;
   position: relative;
   margin: 0 1em 1em 0;
   text-decoration: none;
@@ -30,7 +30,7 @@
 
 .c-tag::before {
   background: #fff;
-  border-radius: .75em;
+  border-radius: .5em;
   box-shadow: inset 0 1px rgba($c-base__03, .3); 
   content: '';
   height: 6px;
