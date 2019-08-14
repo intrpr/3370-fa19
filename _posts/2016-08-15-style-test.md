@@ -45,8 +45,29 @@ Lorem ipsum dolor sit amet, [test link](https://www.google.com) adipiscing elit.
 <span class="c-badge c-badge-pill c-badge-primary">Primary</span> <span class="c-badge c-badge-pill c-badge-secondary">Secondary</span> <span class="c-badge c-badge-pill c-badge-success">Success</span> <span class="c-badge c-badge-pill c-badge-info">Info</span> <span class="c-badge c-badge-pill c-badge-warning">Warning</span> <span class="c-badge c-badge-pill c-badge-danger">Danger</span> <span class="c-badge c-badge-pill c-badge-light">Light</span> <span class="c-badge c-badge-pill c-badge-dark">Dark</span>
 
 ## 2b. Alerts
+<div class="c-alert c-alert-primary" role="alert">
+	<span class="c-badge c-badge-pill c-badge-primary">Please note:</span> Text
+</div>
+<div class="c-alert c-alert-secondary" role="alert">
+	<span class="c-badge c-badge-pill c-badge-secondary">Please note:</span> Text
+</div>
+<div class="c-alert c-alert-success" role="alert">
+	<span class="c-badge c-badge-pill c-badge-success">Please note:</span> Text
+</div>
+<div class="c-alert c-alert-info" role="alert">
+	<span class="c-badge c-badge-pill c-badge-info">Please note:</span> Text
+</div>
 <div class="c-alert c-alert-danger" role="alert">
 	<span class="c-badge c-badge-pill c-badge-danger">Please note:</span> Text
+</div>
+<div class="c-alert c-alert-warning" role="alert">
+	<span class="c-badge c-badge-pill c-badge-warning">Please note:</span> Text
+</div>
+<div class="c-alert c-alert-light" role="alert">
+	<span class="c-badge c-badge-pill c-badge-light">Please note:</span> Text
+</div>
+<div class="c-alert c-alert-dark" role="alert">
+	<span class="c-badge c-badge-pill c-badge-dark">Please note:</span> Text
 </div>
 
 ## 3. Images
