@@ -15,7 +15,7 @@ categories: ASL3350 ASL3370 ASL English interpretation organization analysis
 </p>
 
 <p class="lead">
-Cognitive organization of a text can help interpreters mentally plan out ([roadmap and signpost, p. 224; Mindess, 2006](http://)) and know where the intent of a text or discourse is going.
+Cognitive organization of a text can help interpreters mentally plan out <a href="">roadmap and signpost</a>, p. 224; Mindess, 2006) and know where the intent of a text or discourse is going.
 </p>
 
 Here are some bullet points/learning outcomes of which we might want to be aware:
@@ -23,9 +23,9 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 * What skills are required for me to predict a text?
 * Are there word choices that we can make to help with predicting and interpreting texts?
 
-Readings/Discussions
+#### Readings/Discussions
 
-<p class="h4">Textbook chapters</p>
+##### Textbook chapters
 ### Consecutive Interpreting from English (Patrie)
 Unit 4 (pp. 95–115) <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
