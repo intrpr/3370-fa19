@@ -24,7 +24,7 @@ An imperative skillset to be developing at this point in your career is becoming
 
 1. **Unit readings and discussion**. There may be additional readings associated with each unit. This list may or may not change as we go through the semester; new and relevant articles are always being published. Readings which are vital to the discussions we have are marked in <span class="c-badge c-badge-pill c-badge-danger">red</span>. [See the class schedule](../08/schedule.html).
 2. **Annotated bibliography**. In order to keep current on issues facing the interpreting field, you’ll be required to compile an annotated bibliography. Turning in a bibliography indicates that you have actually performed research. If you haven’t done this, don’t turn in a bibliography. Faked work is easily identified, and will result in a failing grade on the assignment. Late bibliographies will be penalized at 10% per day (not class period). See [class schedule for due dates](../08/schedule.html) and the [Writing page](../08/writing.html) (or a [sample biblography](http://intrpr.info/library/template/sample-annotated-bibliography.pdf) for requirements and specifications).
-3. **Assessments**. There will be two performance (interpreted) assessments this semester: an initial pre-assessment and an end-of-semester assessment. There’s only one of these, so unless there’s an exceptional reason, there is no makeup final exam. [See the class schedule](../08/schedule.html); dates marked in orange.
+3. **Assessments**. There will be two performance (interpreted) assessments this semester: an initial pre-assessment and an end-of-semester assessment. There’s only one of these, so unless there’s an exceptional reason, there is no makeup final exam. [See the class schedule](../08/schedule.html); dates marked in <span class="c-badge c-badge-pill c-badge-warning">yellow</span>.
 
 ## Community exposure
 
@@ -53,17 +53,17 @@ Work schedules, out-of-town trips, or dating habits are not valid excuses for mi
 
 {% include grade-breakdown.html %}
 
-| Assignment | Points :|
-|----------|----------|
-| Student-teacher contract | 10 points :|
-| In-class participation | 150 points :|
-| Annotated bibliography | 50 points :|
-| Video portfolio postings | 50 points<br><small>(5 posts; 10 points each)</small> :|
-| In-class presentation | 10 points :|
-| Midterm evaluation | 10 points :|
-| Community experience | 50 points :|
-| Performance assessments | 200 points<br><small>(2 assessments, 100 points each)</small> :|
-| Total* | 540 points :|
+| Assignment | Points |
+| ---------- | ---------- :|
+| Student-teacher contract | 10 points |
+| In-class participation | 150 points |
+| Annotated bibliography | 50 points |
+| Video portfolio postings | 50 points<br><small>(5 posts; 10 points each)</small> |
+| In-class presentation | 10 points |
+| Midterm evaluation | 10 points |
+| Community experience | 50 points |
+| Performance assessments | 200 points<br><small>(2 assessments, 100 points each)</small> |
+| **Total*** | **540 points** |
 
 <small>* This may or may not be the final total; scores from impromptu exercises and extra credit assignments will proportionally be figured into your final grade.</small>
 
