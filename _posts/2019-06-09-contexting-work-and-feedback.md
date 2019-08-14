@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "04 Contexting interpretive work and depersonalizing feedback"
-categories: ASL3350 ASL3360 ASL3370 ASL3380 ASL English, interpreting work feedback depersonalization
+description: Providing feedback as a function of ‘work,’ not of ‘me’
+date: 2019-08-13
+tags: ASL3350 ASL3360 ASL3370 ASL3380 ASL English, interpreting work feedback depersonalization
+comments: true 
 ---
 
 ## Learning to talk about our work as a function of ‘work,’ not of ‘me’
