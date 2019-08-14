@@ -53,16 +53,16 @@ Work schedules, out-of-town trips, or dating habits are not valid excuses for mi
 
 {% include grade-breakdown.html %}
 
-| Assignment | Points |
-| ---------- | ---------- :|
-| Student-teacher contract | 10 points |
-| In-class participation | 150 points |
-| Annotated bibliography | 50 points |
-| Video portfolio postings | 50 points<br><small>(5 posts; 10 points each)</small> |
-| In-class presentation | 10 points |
-| Midterm evaluation | 10 points |
-| Community experience | 50 points |
-| Performance assessments | 200 points<br><small>(2 assessments, 100 points each)</small> |
+| Assignment | Qty | Points each | Points total | % of grade |
+| ---------- | -- :| ---------- :| ----------- :| --------- :|
+| Student-teacher contract | 1 | 10 | 10 | |
+| In-class participation | 1 | 150 | 150 | |
+| Annotated bibliography | 1 | 50 | 50 | |
+| Video portfolio postings | 5 | 10 | 50 | |
+| In-class presentation | 1 | 10 | 10 | |
+| Midterm evaluation | 1 | 10 | 10 | |
+| Community experience | 2 | 30 | 30 | |
+| Performance assessments | 2 | 100 | 200 | |
 | **Total*** | **540 points** |
 
 <small>* This may or may not be the final total; scores from impromptu exercises and extra credit assignments will proportionally be figured into your final grade.</small>

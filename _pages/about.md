@@ -4,7 +4,7 @@ title: About This Course
 permalink: /about/
 ---
 
-> This is a temporary site used for the Fall 2019 Semester. This site should be used in conjunction with [the class Canvas site](https://uvu.instructure.com) and the [class GoREACT site](https://goreact.com).
+> This is a temporary site used for the Fall 2019 Semester. This site should be used in conjunction with [the class Canvas site](https://uvu.instructure.com) and the [class GoREACT site](https://app.goreact.com/login).
 
 This course is an introduction to the process and skills required to produce unidirectional signed-to-spoken English language interpretations between Deaf and nondeaf people. Upon successful completion of this course, students should be able to:
 
@@ -40,3 +40,6 @@ A significant portion of this course requires self-directed efforts (asychronous
 “...I learned a lot about processing and dual-tasking. It was helpful when [we] discussed the process that takes place in our brain while interpreting.”
 
 Note: All downloadable files — class notes, syllabi, and other handouts — are saved in PDF formats and require Adobe Acrobat Reader. If the computer you are using does not have Acrobat or the Acrobat browser plugin, [you can download it free](http://www.adobe.com/products/acrobat/readstep2.html).
+
+### Creative Commons Attribution-NonCommercial-ShareAlike 4.0 United States License and Fair Use 
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 United States License. This license grants you permission to share (copy, distribute, and transmit the work) and remix (to adapt the work) under certain conditions and understandings. This license does not apply, however, to work claimed by other authors and producers. Additionally, every intent has been made to make materials available via “Fair Use,” (§107 to 118, Title 17, US Code); the content and downloadable materials on the pages of this Web site are solely for the benefit of the students enrolled in these courses.
