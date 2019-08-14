@@ -6,6 +6,7 @@ layout: page
 		<h1 class="c-article__title">{{ page.title }}</h1>
 		<p class="c-article__time"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
 	</header>
+
 	<!-- Post Tags -->
 	<ul class="c-tags">
 		{% for tag in page.tags %}
@@ -15,23 +16,23 @@ layout: page
 	<div class="c-article__main">
 		{{ content }}
 	</div>
+
 	<!-- Previous / Next Buttons -->
 	<div class="pagenav">
 		{% if page.previous.url %}
 		<div class="wrapper" id="left">
-			<small><b>Previous</b> {{page.previous.date | date: "%b %-d, %Y"}}</small>
-			<br>
-			<a class="no-hov" href="{{ page.previous.url | prepend: site.baseurl }}">&laquo; {{page.previous.title}}</a>
+			<p><small><b>Previous</b> {{page.previous.date | date: "%b %-d, %Y"}}</small></p>
+			<p><a class="no-hov" href="{{ page.previous.url | prepend: site.baseurl }}">&laquo; {{page.previous.title}}</a></p>
 		</div>
 		{% endif %}
 		{% if page.next.url %}
 		<div class="wrapper" id="right">
-			<small>{{page.next.date | date: "%b %-d, %Y"}} <b>Next</b></small>
-			<br>
-			<a class="no-hov" href="{{ page.next.url | prepend: site.baseurl }}">{{page.next.title}} &raquo;</a>
+			<p><small>{{page.next.date | date: "%b %-d, %Y"}} <b>Next</b></small></p>
+			<p><a class="no-hov" href="{{ page.next.url | prepend: site.baseurl }}">{{page.next.title}} &raquo;</a></p>
 		</div>
 		{% endif %}
 	</div>
+
 	<!-- Disqus comments view -->
 	{% if page.comments != false and site.disqus_id %}
 	<div class="post-disqus">
