@@ -21,6 +21,7 @@
   height: 26px;
   line-height: 26px;
   padding: 0 20px 0 23px;
+  border-radius: .75em;
   position: relative;
   margin: 0 1em 1em 0;
   text-decoration: none;
@@ -44,7 +45,6 @@
   border-bottom: 13px solid transparent;
   border-left: 10px solid $c-accent__blue;
   border-top: 13px solid transparent;
-  border-radius: .75em;
   content: '';
   position: absolute;
   right: 0;
