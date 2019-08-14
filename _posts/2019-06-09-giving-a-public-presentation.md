@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "03 Giving a spoken public presentation"
+title: "Giving a spoken public presentation"
 description: Interpreting is a public activity
 date: 2019-08-13
 tags: ASL3370 ASL English public speaking
