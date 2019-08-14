@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "12 Course Assignments"
-description: "Course assignment strategy and points breakdown"
+title: "Course Assignments"
+description:
 date: 2019-08-13
 tags: 3370 assignments
 comments: true
@@ -39,8 +39,8 @@ In order to become a contributing member of the professional community in which 
 
 ## Self Evaluations
 
-1. **Student-teacher contract**. Determine the parameters of a [contract between you and the instructor](http://) that will help determine the evaluation and measurement of your in-class performance this semester. What grade do you want? Why? Thoughtfully include what requirements, stipulations, and conditions you’ll need to satisfy in order to warrant the grade you want to earn from this class. Additionally, explain what you feel the instructor can do/should do to enable your best performance. [See the class schedule](../08/schedule.html); this contract is worth ten points. Late submissions will not be accepted.
-2. **Midterm evaluation**. About halfway through the semester, [it’ll be time for a kumbaya of sorts](http://), let the instructor know how you’re doing— “great,” “bored,” “frustrated”: get it out. It’ll be anonymous of course, but it will help you and the instructor do any course correcting if needed. Watch [the class schedule](../08/schedule.html) for this; this evaluation is worth an easy-peasy ten points. Late submissions will not be accepted. Evaluations are marked in <span class="c-badge c-badge-pill c-badge-secondary">dark blue</span>.
+1. **Student-teacher contract**. Determine the parameters of a [contract between you and the instructor](https://docs.google.com/forms/d/e/1FAIpQLScc7I93RYboaT955frbKYUYDXFQIc4ISzEGw3t9kQAdyeU7Eg/viewform) that will help determine the evaluation and measurement of your in-class performance this semester. What grade do you want? Why? Thoughtfully include what requirements, stipulations, and conditions you’ll need to satisfy in order to warrant the grade you want to earn from this class. Additionally, explain what you feel the instructor can do/should do to enable your best performance. [See the class schedule](../08/schedule.html); this contract is worth ten points. Late submissions will not be accepted.
+2. **Midterm evaluation**. About halfway through the semester, [it’ll be time for a kumbaya of sorts](https://docs.google.com/forms/d/e/1FAIpQLSd92Ih-soazbznF1j6gP7U6e8IgQ7UJKEKJ2GZrvlNsogZ6SA/viewform), let the instructor know how you’re doing — “great,” “bored,” “frustrated”: get it out. It’ll be anonymous of course, but it will help you and the instructor do any course correcting if needed. Watch [the class schedule](../08/schedule.html) for this; this evaluation is worth an easy-peasy ten points. Late submissions will not be accepted. Evaluations are marked in <span class="c-badge c-badge-pill c-badge-secondary">dark blue</span>.
 3. **Final evaluation**. After the final exam, you’ll have a quick final evaluation that will help me understand how you prepared for the exam as well as answer any final concerns or comments about your experience. While it isn’t graded, it helps me understand if what we practiced was helpful or not. It also helps future classes get the benefit of things in class that you liked or didn’t like.
 
 ## Due Dates and Missing Exams/Classes

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "04 Contexting interpretive work and depersonalizing feedback"
+title: "Contexting interpretive work and depersonalizing feedback"
 description: Providing feedback as a function of ‘work,’ not of ‘me’
 date: 2019-08-13
 tags: ASL3350 ASL3360 ASL3370 ASL3380 ASL English, interpreting work feedback depersonalization
@@ -27,34 +27,34 @@ Chapter 11 (pp. 93–100)
 
 #### Talking about what we talk about
 
-### [Feedback: A Conversation about ‘The Work’ Between Learners and Colleagues (Witter-Merithew)](http://)
+### [Feedback: A Conversation about ‘The Work’ Between Learners and Colleagues](http://intrpr.info/library/witter-merithew-talking-about-the-work.pdf)
 This article contains an unpublished article (2001) by Anna Witter-Merithew, Director of the Mid-America Regional Interpreter Education Center (MARIE) and an assistant director of the [DoIT Center (now Department of American Sign Language and Interpreting Studies) at the University of Northern Colorado](http://www.unco.edu/doit), regarding how we have historically spoken about interpreting work and posits a new paradigm of discussion. <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
-> [Text/HTML version](http://) of “Feedback: A Conversation about ‘The Work’...”
+> [Text/HTML version](http://intrpr.info/library/text/witter-merithew-talking-about-the-work.html) of “Feedback: A Conversation about ‘The Work’...”
 
-### [Non-evaluative feedback language (Colonomos)](http://)
+### [Non-evaluative feedback language](http://intrpr.info/library/colonomos-feedback-language-yellow.pdf)
 Colonomos’ “yellow sheet.” Simple yet essential recontexting of feedback language we use with interpreter colleagues. To be used in class discussions and interpretive work processing. Live it. Love it. Learn it. (Don’t download this unless you lose the yellow copy handed out in class.) 
 
-### [“Do We Eat Our Young and One Another? Horizontal Violence Among Signed Language Interpreters”](http://)
+### [“Do We Eat Our Young and One Another? Horizontal Violence Among Signed Language Interpreters”](http://digitalcommons.wou.edu/cgi/viewcontent.cgi?article=1004&context=theses)
 This 2012 thesis by Western Oregon University graduate Emily Ott explores the incidence of intergenerational communication conflict and horizontal violence between new and experienced interpreters.
 
-### [“Why Is It So Hard to Accept Feedback”](http://)
+### [“Why Is It So Hard to Accept Feedback”](http://www.tswriting.com/why-is-it-so-hard-to-accept-feedback)
 Short but applicable vlog by writer/educator Trudy Suggs on how to view feedback and commentary on our work. Based on our class discussion about reframing feedback and evaluation discourse, can you see how this would be important? (From Vimeo) <span class="c-badge c-badge-pill c-badge-success">Highly Recommended</span>
 
-### [“How to give (and not give) feedback”](http://)
-Courtesy of our friends at [GoREACT](http://www.goreact.com/), this article correlates our other readings about effective feedback (specificity, timing, focus on product not person, etc.) <span class="c-badge c-badge-pill c-badge-danger">Required</span>
+### [“How to give (and not give) feedback”](https://blog.goreact.com/2016/11/02/how-to-give-and-not-give-feedback)
+Courtesy of our friends at [GoREACT](http://www.goreact.com), this article correlates our other readings about effective feedback (specificity, timing, focus on product not person, etc.) <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
-> [PDF version](http://) of ”How to Give (And Not Give) Feedback”
+> [PDF version](http://intrpr.info/library/anderson-goreact-give-feedback.pdf) of ”How to Give (And Not Give) Feedback”
 
 ### [How to Turn Disagreement Into a Team Strength](https://blog.doist.com/how-to-turn-disagreement-into-a-team-strength-7bb25fec25f)
 Again, written from the perspective of product designers, this article reminds is that disagreement is not inherently bad, if we’re both working towards the same end. “You are not your idea, and if you identify too closely with your ideas, you will take offense when they are challenged.” Consider how disagreeing with your team member can actually be productive in the work we produce. <span class="c-badge c-badge-pill c-badge-success">Highly Recommended</span>
 
 #### Measuring work with rubrics
 
-### [Transliteration Equivalency Rubric](http://)
+### [Transliteration Equivalency Rubric](http://intrpr.info/3380/rubric-transliteration.html)
 This is a transliteration performance rubric based on twelve skill categories. Your pre-assessment assignment will be rated on these skills. Let’s use this rubric as part of our discussion.
 
-### [EIPA Skills Rating Rubric](http://)
+### [EIPA Skills Rating Rubric](http://intrpr.info/library/eipa-skills-rating-form.pdf)
 This is EIPA’s rating form (20XX) used to measure equivalency and accuracy on EIPA performance assessements. Let’s also use this rubric as part of our discussion.
 
 #### The Demand Control Schema for Interpreting Work (DC-S)
@@ -63,10 +63,10 @@ While we won’t be directly referencing DC-S in this discussion about evaluatio
 ### [The Demand Control Schema for Interpreting Work (DC-S)](http://www.urmc.rochester.edu/deaf-wellness-center/demand-control-schema/overview.cfm)
 Definition and explanation of Dean & Pollard’s Demand Control Schema. <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
-### [Consumers and Service Effectiveness in Interpreting Work: A Practice Profession Perspective (2005)](http://)
-Article by Dean & Pollard (2005) discusses the concept of SL interpreting as a practice profession and why overlooking outside factors on SL interpreters is potentially dangerous to the profession.  (Read pp. 259–271; stop at “Ethics, Consumers, and...”) <span class="c-badge c-badge-pill c-badge-danger">Required</span>
+### [Consumers and Service Effectiveness in Interpreting Work: A Practice Profession Perspective (2005)](http://intrpr.info/library/dean-pollard-practice-professions.pdf)
+Article by Dean & Pollard (2005) discusses the concept of SL interpreting as a practice profession and why overlooking outside factors on SL interpreters is potentially dangerous to the profession. (Read pp. 259–271; stop at “Ethics, Consumers, and...”) <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
-### [Application of Demand-Control Theory to Sign Language Interpreting: Implications for Stress and Interpreter Training (2001)](http://jdsde.oxfordjournals.org/content/6/1/1.full.pdf)
+### [Application of Demand-Control Theory to Sign Language Interpreting: Implications for Stress and Interpreter Training](http://jdsde.oxfordjournals.org/content/6/1/1.full.pdf)
 This seminal work in the DC-S theory framework introduces various types of demands — (para)linguistic, environmental, interpersonal, and intrapersonal — and discusses their impacts on interpreter psychology.<span class="c-badge c-badge-pill c-badge-success">Recommended</span>
 
 ### [Apprenticeship in SL Interpreting](http://www.streetleverage.com/2012/08/new-lamps-for-old-apprenticeship-in-sign-language-interpreting)
