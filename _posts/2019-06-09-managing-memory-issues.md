@@ -14,14 +14,14 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 * How do I deal with message ‘decay’? Why do I make miscues?
 * How can I harness the power of cognitive load in producing a spoken language interpretation?
 
-Readings/Discussions
+#### Readings/Discussions
 
-#### How do I learn?
+##### How do I learn?
 
 ### [VARK Questionnaire](http://www.vark-learn.com/english/page.asp?p=questionnaire)
 Take this learning preferences style assessment to see where your learning tendencies might be focused. <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
-Related: Try the [Big](https://projects.fivethirtyeight.com/personality-quiz/) [Five](http://www.personalitylab.org/tests/bfi2_self_pol.htm) personality quiz or even try the [Myers-Briggs](http://www.humanmetrics.com/cgi-win/jtypes2.asp) [personality exam](http://www.16personalities.com/free-personality-test) or for more detailed information on your learning and psychological preferences. The goal here is not to create a diagnosis, but to identify how you personally process (or dual process) information in an interpreting event.
+> Related: Try the [Big](https://projects.fivethirtyeight.com/personality-quiz/) [Five](http://www.personalitylab.org/tests/bfi2_self_pol.htm) personality quiz or even try the [Myers-Briggs](http://www.humanmetrics.com/cgi-win/jtypes2.asp) [personality exam](http://www.16personalities.com/free-personality-test) or for more detailed information on your learning and psychological preferences. The goal here is not to create a diagnosis, but to identify how you personally process (or dual process) information in an interpreting event.
 
 ### [Multiple Intelligences](http://www.edutopia.org/multiple-intelligences-research)
 Howard Gardner proposed the concept of ‘multiple intelligences’ to challenge the concept of IQs; various intelligences ([at least eight of them](http://www.edutopia.org/multiple-intelligences-research)) indicate where various types of information are processed and comprehended. Gardner contrasts multiple intelligences against learning styles, explaining them as “abilities,” rather than approaches to tasks. For a little more insight into your multiple intelligences, [what does an intelligences assessment](http://www.edutopia.org/multiple-intelligences-assessment) look like for you? <span class="c-badge c-badge-pill c-badge-success">Recommended</span>
@@ -36,8 +36,8 @@ Achieving automaticity is about making a newly learned skill a part of who you a
 Article reminds that process to learning skills and tasks is relatively straightforward (context-based learning): ‘learn’ a concept, practice/use it in a real-world scenario, get coaching and feedback, rinse and repeat.
 
 ### Those Incredible Interpreters
-Part I: [Interpreting is one of the most difficult linguistic skills](https://www.psychologytoday.com/us/blog/life-bilingual/201109/those-incredible-interpreters) <span class="c-badge c-badge-pill c-badge-danger">Required</span>
-Part II: [How Those Incredible Interpreters Do It](https://www.psychologytoday.com/us/blog/life-bilingual/201904/how-those-incredible-interpreters-do-it) <span class="c-badge c-badge-pill c-badge-danger">Required</span>
+Part I: [Interpreting is one of the most difficult linguistic skills](https://www.psychologytoday.com/us/blog/life-bilingual/201109/those-incredible-interpreters) <span class="c-badge c-badge-pill c-badge-danger">Required</span><br>
+Part II: [How Those Incredible Interpreters Do It](https://www.psychologytoday.com/us/blog/life-bilingual/201904/how-those-incredible-interpreters-do-it) <span class="c-badge c-badge-pill c-badge-danger">Required</span><br>
 [Inside the Weird Brains of Real-Time Translators](https://gizmodo.com/inside-the-weird-brains-of-real-time-translators-1660521550)
 
 ### [How to never forget anything ever again: Spaced Repetition](https://medium.com/life-tips/how-to-never-forget-anything-ever-again-5481606b087a#.ju7gzsi33)
@@ -52,7 +52,7 @@ I’m not a huge fan of the ‘10 Things’ genre, but this is especially german
 ### [Designing Experience Design](https://medium.com/@kurren/designing-experience-design-24b18a670cbc)
 Tangential to interpreting, the field of user experience spends a great deal of effort in understanding how users cognitively and psychologically process presented information. This article discusses cognitive effort, schema/schemata, and gestalt principles as a way of taxonomizing information. Nerd alert, but helpful in seeing that interpreters aren’t the only ones doing this.
 
-Related: [How human memory works (tips for designers)](https://uxplanet.org/how-human-memory-works-tips-for-ux-designers-12b14071bdf9): interface designers leverage human memory triggers and tactics to create stories and memorable experiences. Interpreter ‘designers’ do the same thing.
+> Related: [How human memory works (tips for designers)](https://uxplanet.org/how-human-memory-works-tips-for-ux-designers-12b14071bdf9): interface designers leverage human memory triggers and tactics to create stories and memorable experiences. Interpreter ‘designers’ do the same thing.
 
 ### [Why we forget](http://www.salon.com/2011/11/20/why_we_forget)
 Science shows our memory can easily be distorted and erased — but our forgetfulness also helps us survive.
@@ -68,7 +68,6 @@ Ever wonder why some people don’t see or think that they make errors? It’s b
 
 ### Brain Games and Training
 Games, exercises, and training to improve brain health and performance. (First few games free, paid account required)
-
 [Lumosity](https://www.lumosity.com/en/)
 [Memorado](https://memorado.com/)
 
