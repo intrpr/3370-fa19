@@ -15,7 +15,7 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 
 #### Readings/Discussions
 
-### [Interpreting Culturally Rich Realities: Research Implications for Successful Interpretations](http://) (Cokely)
+### [Interpreting Culturally Rich Realities: Research Implications for Successful Interpretations](http://)
 This is a pre-published version of this article by Dennis Cokely, Dean of the ASL Program at Northeastern University, regarding meaning in ASL vocabularies and interpretations. (Published citation/reference: Cokely, D. (2001). Interpreting culturally rich realities: Research implications for successful interpretations. *Journal of Interpretation*, 2001.) We’ll be using this article to talk about message intent, vis-a-vis listening. <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
 ### [Cohesion & Transitional Devices (Spoken English)](http://)
@@ -29,7 +29,7 @@ This two-page handout taxonomizes four types of spoken English cohesion and tran
 
 ### [English interpretation production notes](http://intrpr.info/library/leahy-english-exhaustion.pdf) (courtesy [Dr. Anne Leahy](http://www.anneleahy.com/))
 
-### [Look-Pause-Nod](http://) (Napier, Carmichael, & Wiltshire) 
+### [Look-Pause-Nod](http://)
 (pp. 36 – 38.) This is chapter 2 in Hauser, 2008, *Deaf Professionals and Designated Interpreters* by Napier, Carmichael, & Wiltshire. Among important points like engagement via eye contact and attention, the conclusion of this paper reiterates the importance of appropriate and mature source language choices. <span class="c-badge c-badge-pill c-badge-success">Recommended</span>
 
 ### [Interpreters for Deaf Cut Through D.C.’s Political Jargon](http://online.wsj.com/news/articles/SB10001424052702304773104579266792997670058)
