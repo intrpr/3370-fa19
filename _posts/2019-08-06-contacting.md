@@ -2,8 +2,9 @@
 layout: post
 title: "Contacting Me"
 description:
-date: 2019-08-13
+date: 2019-08-14
 categories: ASL3370 contacting students interaction
+comments: true
 ---
 
 Because I don’t have office hours, you may contact me at any time via e-mail or by arranging a meeting time before or after class, or try one of these methods:
