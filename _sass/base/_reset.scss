@@ -54,10 +54,16 @@ h6 {
 	margin: .5em 0;
 }
 
-h2, h4 {
+h2 {
 	font-weight: 500;
 	color: $c-base__02;
 	margin: .5em 0;
+}
+
+h4 {
+	font-weight: 500;
+	color: $c-base__01;
+	margin: 0;
 }
 
 p, li { margin: .5em 0; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; hyphens: auto; }
