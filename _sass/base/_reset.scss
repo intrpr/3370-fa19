@@ -44,7 +44,12 @@ header a {
   padding: 5px 1px;
 }
 
-h1,
+h1 { 
+	font-weight: 600;
+	color: $c-base__02;
+	margin: .5em 0;
+}
+
 h2,
 h3,
 h5,
