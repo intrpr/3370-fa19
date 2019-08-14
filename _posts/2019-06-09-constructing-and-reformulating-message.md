@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "11 Constructing and reformulation of message parts in an interpretation"
-description: "This section is intended to focus on the DNA and morphology of message"
+description: "Focusing on the DNA and morphology of message"
 date: 2019-08-13
 tags: ASL3350 ASL3370 ASL English construction reformulation message interpretation
 comments: true
 ---
 
-## h2
+## Adding in the parts of message that aren’t always seen but are always intended
 
 <p class="lead">This section is intended to focus on the DNA and morphology of message. Colonomos’ work points interpreters towards understanding the complex modular parts of what people say, the context, demography, history and etymology: everything that frames and shapes an intended message.</p>
 

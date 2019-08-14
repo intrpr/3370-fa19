@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "12 Course Assignments"
-description: "Course assignment strategy and breakdown"
+description: "Course assignment strategy and points breakdown"
 date: 2019-08-13
 tags: 3370 assignments
 comments: true
@@ -78,8 +78,8 @@ And, when it comes to privacy, Deaf people are no different than hearing people;
 
 Other resources can be found at Salt Lake Community College (Redwood Road campus) or here in Utah County; [BYU](http://www.facebook.com/pages/BYU-ASL-CLUB/153072054600), [UVU](http://www.facebook.com/group.php?gid=86095565110&v=info), and [SLCC](http://www.slcc.edu/asl/asl-program/asl-club.aspx) have active, on-going, on-campus ASL clubs; UVU has periodic inservice for its interpreters. You may even have Deaf friends who are students here at UVU or BYU. Explain your assignment to them, and ask what activities may be happening around the area.
 
-Take advantage of your participation to obtain real-life practical experience in relation to interpreting opportunities within the Deaf Community. Interact with people—get involved, ask questions, take opportunities to learn. Make your experience unique and worthwhile. If you need to, ask the instructor for direction and/or clarification. At the end of these experience, write about your interactions.
+Take advantage of your participation to obtain real-life practical experience in relation to interpreting opportunities within the Deaf Community. Interact with people — get involved, ask questions, take opportunities to learn. Make your experience unique and worthwhile. If you need to, ask the instructor for direction and/or clarification. At the end of these experience, write about your interactions.
 
 What this assignment is not. The purpose of this assignment is not to gaze into the proverbial fishbowl nor see how many Deaf people you can hang out and party with (although new social experiences may be a fringe benefit at times.) Your participation in the community in which you may someday provide interpreting services is contingent on your perceived relationship with the community. Instead of looking for “how do you sign that?” opportunities or just hanging out at league volleyball night, <mark>look for ways to build reciprocity, learn about and challenge current situations where interpreters are working, and get in tune with the local interpreting community</mark>.
 
-Note: Because Utah and Salt Lake Counties are predominantly heavily [Latter-day Saint (LDS) populated](http://deaflds.org/na_ut_id.html), many Deaf community activities are also religious activities. **<mark>It is not an acceptable alternative for this assignment to attend Deaf church services</mark>**; your involvement and interaction at a church meeting is not indicative of a typical Deaf Community function. If, however, you wish to [investigate religious services](https://uad.org/resources/utah-resources/churches-2) as one of your assignments, please discuss your intent with the instructor.
+Note: Because Utah and Salt Lake Counties are predominantly heavily [Latter-day Saint (LDS) populated](http://deaflds.org/na_ut_id.html), many Deaf community activities are also religious activities. <mark>It is not an acceptable alternative for this assignment to attend Deaf church services</mark>; your involvement and interaction at a church meeting is not indicative of a typical Deaf Community function. If, however, you wish to [investigate religious services](https://uad.org/resources/utah-resources/churches-2) as one of your assignments, please discuss your intent with the instructor.
