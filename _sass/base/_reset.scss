@@ -47,7 +47,6 @@ header a {
 h1,
 h2,
 h3,
-h4,
 h5,
 h6 {
 	font-weight: 400;
@@ -55,7 +54,7 @@ h6 {
 	margin: .5em 0;
 }
 
-h2 {
+h2, h4 {
 	font-weight: 500;
 	color: $c-base__02;
 	margin: .5em 0;
