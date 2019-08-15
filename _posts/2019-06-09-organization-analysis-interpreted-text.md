@@ -18,7 +18,7 @@ comments: true
 </p>
 
 <p class="lead">
-Cognitive organization of a text can help interpreters mentally plan out <a href="">roadmap and signpost</a>, p. 224; Mindess, 2006) and know where the intent of a text or discourse is going.
+Cognitive organization of a text can help interpreters mentally plan out <a href="http://intrpr.info/library/books/mindess-reading-between-the-signs.pdf">roadmap and signpost</a>, p. 224; Mindess, 2006) and know where the intent of a text or discourse is going.
 </p>
 
 Here are some bullet points/learning outcomes of which we might want to be aware:
@@ -38,7 +38,7 @@ Unit 4 (pp. 95–115) <span class="c-badge c-badge-pill c-badge-danger">Required
 This excellent article explains a cognitive exercise called content mapping, which can be used to visualize a text.
 
 ### [Topic maps: From information to discourse architecture](http://intrpr.info/library/johnsen-topic-maps-discourse-architecture.pdf)
-A non-SL interpreting related and slightly more academic discussion of information as “discourse architecture.” From the literature in information architecture, ‘topic maps’ visually demonstrate cohesion and the semantic organization of topics. Discourse architecture is a helpful framework for organizing interpreted texts. (Citation: Johnsen, L. (2010). Topic Maps: From Information to Discourse Architecture. *Journal of Information Architecture.* 2(1). Retrieved from [http://journalofia.org/volume2/issue1/02-johnsen](http://journalofia.org/volume2/issue1/02-johnsen).) <span class="c-badge c-badge-pill c-badge-danger">Required</span>
+A non-SL interpreting related and slightly more academic discussion of information as “discourse architecture.” From the literature in information architecture, ‘topic maps’ visually demonstrate cohesion and the semantic organization of topics. Discourse architecture is a helpful framework for organizing interpreted texts. (Citation: Johnsen, L. (2010). Topic Maps: From Information to Discourse Architecture. *Journal of Information Architecture.* 2(1). Retrieved from [http://journalofia.org/volume2/issue1/02-johnsen/](http://journalofia.org/volume2/issue1/02-johnsen/).) <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
 ### [The meaning of texts](http://intrpr.info/library/witter-merithew-the-meaning-of-texts.pdf)
 Reprinted from Witter-Merithew, A. (2001). Understanding the meaning of texts and reinforcing foundation skills through discourse analysis. In C. Nettles (Ed.), Tapestry of Our Worlds, Proceedings of the 17th National Conference of the Registry of Interpreters for the Deaf, p. 177-192.
