@@ -34,7 +34,7 @@ In order to become a contributing member of the professional community in which 
 	* Other people’s actions and reactions towards you and your reactions to their behavior.
 	* Any new awareness and/or insight about interpreting in the community that you had not expected or thought of. Did you gain any new understanding as to the reasons for certain behaviors or cultural morés that Deaf people have? Explain.
 	* Any anecdotes or descriptions of events that happened that seemed significant or helpful to your experience.
-2. **Field trip**. We’ll be making a visit to the local [Toastmasters](https://www.toastmasters.org/Find-a-Club/00007391-mainstreamers-toastmasters-club) chapter in our area to experience more about public speaking. The date for this is currently TBA and we’ll discuss it in class. The assignment is to submit your observations of the experience as outlined above.
+2. **Field trip**. We’ll be making a visit to the local [Toastmasters chapter in our area](https://www.toastmasters.org/Find-a-Club/00007391-mainstreamers-toastmasters-club) to experience more about public speaking. The date for this is currently TBA and we’ll discuss it in class. The assignment is to submit your observations of the experience as outlined above.
 3. <strike>**Deaf Studies *Today*! service and involvement** (when available). While this is not required, if you’re not yet on a planning or service committee for the Deaf Studies Today! conference, arrange your semester schedule so you can assist in this extraordinary opportunity to provide interpreting services in an international conference setting.</strike>
 
 ## Self Evaluations
