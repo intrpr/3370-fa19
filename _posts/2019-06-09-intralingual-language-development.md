@@ -18,7 +18,7 @@ Here are some bullet points/learning outcomes of which we might want to be aware
 
 #### Readings/Discussions
 
-### [Interpreting culturally rich realities: Research implications for successful interpretations](http://)
+### [Interpreting culturally rich realities: Research implications for successful interpretations](http://intrpr.info/library/cokely-rich-realities.pdf)
 This is a pre-published version of this article by Dennis Cokely, Dean of the ASL Program at Northeastern University, regarding meaning in ASL vocabularies and interpretations. (Published citation/reference: Cokely, D. (2001). Interpreting culturally rich realities: Research implications for successful interpretations. *Journal of Interpretation*, 2001.) We’ll be using this article to talk about message intent, vis-a-vis listening. <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
 ### [Cohesion & transitional devices](http://intrpr.info/library/cohesion-and-transition-words-english.pdf)
