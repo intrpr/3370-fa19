@@ -37,7 +37,7 @@ Admittedly, this article has nothing directly to do with SL interpreting; it’s
 ### [Are your words holding you back?](https://www.redbookmag.com/life/how-to/a2219/words-holding-you-back)
 It feels a little pointed beginning in the first paragraph (“...about this thing we women tend to do when we talk...”), however this article about powerless language (it used to be called ‘feminine language’; perhaps that’s why women are called out in the first sentence?) describes the perception of those who hear this kind of language.
 
-> Bonus thesis by Amanada Wilson (2009) about [powerful and powerless language in employment interviews] explaining real-world application of how powerless language is perceived in opportunities for self-presentation. (Think about what a deaf interviewee sounds like if/when powerless language is used.) (https://scholarworks.uni.edu/cgi/viewcontent.cgi?article=1043&context=hpt).
+> Bonus thesis by Amanada Wilson (2009) about <a href="https://scholarworks.uni.edu/cgi/viewcontent.cgi?article=1043&context=hpt">powerful and powerless language in employment interviews</a> explaining real-world application of how powerless language is perceived in opportunities for self-presentation. (Think about what a deaf interviewee sounds like if/when powerless language is used.)
 
 ### [Eye fixation study](https://twitter.com/agabojko/status/425701461142405120)
 Eye fixation study results show how we actually read and process texts. What implications does this have for interpreters?
