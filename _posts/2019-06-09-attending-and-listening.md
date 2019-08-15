@@ -31,7 +31,7 @@ A more-recent corollary to Morgan’s article, this discussion of resume writing
 ### Listening to humor and comedy
 [President Obama’s](https://www.youtube.com/watch?v=NM6d06ALBVA) performance and [Cecily Strong’s standup set](https://www.youtube.com/watch?v=uH5XAeKdrjM) from the 2015 White House Correspondents’ Dinner. How does a listener (much less an interpreter) learn to distinguish from surface-level language choices and deeper semantic intent? Where does the comedy actually take place? Is the ‘funny’ in the delivery or the semantic intent? What is required to render L1 semantics in an L2?
 
-### [How to Wield Empathy](http://www.rosenfeldmedia.com/books/mental-models/how_to_wield_empathy)
+### [How to Wield Empathy](https://rosenfeldmedia.com/mental-models/how-to-wield-empathy)
 Admittedly, this article has nothing directly to do with SL interpreting; it’s about user experience design, the practice of getting into the psychology of web/internet use. But replace “design” with “interpret” and the sentiment takes on a new light. Is there room for ‘user/consumer’ empathy in our work?
 
 ### [Are your words holding you back?](https://www.redbookmag.com/life/how-to/a2219/words-holding-you-back)
