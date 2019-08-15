@@ -8,7 +8,7 @@ permalink: /about/
 
 This course is an introduction to the process and skills required to produce unidirectional signed-to-spoken English language interpretations between Deaf and nondeaf people. Upon successful completion of this course, students should be able to:
 
-1. incorporate practical applications of [non-judgmental language](../contexting-work-and-feedback.html) (Colonomos, Witter-Merrithew, et al.) in evaluating personal and colleague work product
+1. incorporate practical applications of [non-judgmental language](../2019/08/contexting-work-and-feedback.html) (Colonomos, Witter-Merrithew, et al.) in evaluating personal and colleague work product
 2. identify and incorporate a best-practice taxonomy of competencies and processes required to produce sign-to-spoken language interpretations
 3. demonstrate and self-monitor basic abilities required to create sign-to-spoken language interpretations of rehearsed and/or spontaneous texts:
 	* understand how [principles of the Demand-Control Schema (DC-S)](../08/contexting-work-and-feedback.html) can undergird ethical and best-practice interpreting decisions
