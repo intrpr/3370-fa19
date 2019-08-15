@@ -63,7 +63,7 @@ Work schedules, out-of-town trips, or dating habits are not valid excuses for mi
 | Midterm evaluation | 1 | 10 | 10 | |
 | Community experience | 2 | 30 | 30 | |
 | Performance assessments | 2 | 100 | 200 | |
-| **Total*** | | | **540 points** | 100% |
+| **Total*** | | | **540** | 100% |
 
 <small>* This may or may not be the final total; scores from impromptu exercises and extra credit assignments will proportionally be figured into your final grade.</small>
 
