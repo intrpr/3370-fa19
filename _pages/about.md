@@ -11,14 +11,14 @@ This course is an introduction to the process and skills required to produce uni
 1. incorporate practical applications of [non-judgmental language](../2019/08/contexting-work-and-feedback.html) (Colonomos, Witter-Merrithew, et al.) in evaluating personal and colleague work product
 2. identify and incorporate a best-practice taxonomy of competencies and processes required to produce sign-to-spoken language interpretations
 3. demonstrate and self-monitor basic abilities required to create sign-to-spoken language interpretations of rehearsed and/or spontaneous texts:
-	* understand how [principles of the Demand-Control Schema (DC-S)](../08/contexting-work-and-feedback.html) can undergird ethical and best-practice interpreting decisions
-	* increase [competent usage of spoken English](../08/intralingual-language-development.html) as source (sL) and target language (tL)
+	* understand how [principles of the Demand-Control Schema (DC-S)](../2019/08/contexting-work-and-feedback.html) can undergird ethical and best-practice interpreting decisions
+	* increase [competent usage of spoken English](../2019/08/intralingual-language-development.html) as source (sL) and target language (tL)
 	* describe and apply the cognitive tasks of pegging, chunking, linking, and monitoring to understand a discourse
-	* understand how [dual-tasking and cognitive load theory](../08/managing-memory-issues.html) impacts spoken language interpretation
+	* understand how [dual-tasking and cognitive load theory](../2019/08/managing-memory-issues.html) impacts spoken language interpretation
 	* recognize and produce equivalent spoken interpretations given variations in features and parts of message (register, tone, affect, voice, power/less language (Morgan, in Hauser 2008)
 	* recognize and properly address language difference in various genres (comedy, dramatic, age-appropriate, academic, legal, medical, literary/poetic, religious, entertainment, etc.)
-4. identify impacts on and incorporation of s[emantic choice, register, and ethical behavioral decisions](../08/attending-and-listening.html) in consecutive interpretations
-5. Demonstrate and apply best practice principles in [team interpreting work](../08/teaming.html) (feeding, assisting, providing feedback, handling logistics)
+4. identify impacts on and incorporation of s[emantic choice, register, and ethical behavioral decisions](../2019/08/attending-and-listening.html) in consecutive interpretations
+5. Demonstrate and apply best practice principles in [team interpreting work](../2019/08/teaming.html) (feeding, assisting, providing feedback, handling logistics)
 
 A significant portion of this course requires self-directed efforts (asychronously working with other teammates) and fairly good command of web-based technologies and learning environments (video creation, salient discussion, and reporting skills; we’ll discuss this more in class).
 
@@ -40,4 +40,4 @@ A significant portion of this course requires self-directed efforts (asychronous
 Note: All downloadable files — class notes, syllabi, and other handouts — are saved in PDF formats and require Adobe Acrobat Reader. If the computer you are using does not have Acrobat or the Acrobat browser plugin, [you can download it free](http://www.adobe.com/products/acrobat/readstep2.html).
 
 #### Creative Commons Attribution-NonCommercial-ShareAlike 4.0 United States License and Fair Use 
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 United States License. This license grants you permission to share (copy, distribute, and transmit the work) and remix (to adapt the work) under certain conditions and understandings. This license does not apply, however, to work claimed by other authors and producers. Additionally, every intent has been made to make materials available via “Fair Use,” (§107 to 118, Title 17, US Code); the content and downloadable materials on the pages of this Web site are solely for the benefit of the students enrolled in these courses.
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 United States License](https://creativecommons.org/licenses/by-nc-sa/4.0). This license grants you permission to share (copy, distribute, and transmit the work) and remix (to adapt the work) under certain conditions and understandings. This license does not apply, however, to work claimed by other authors and producers. Additionally, every intent has been made to make materials available via “Fair Use,” (§107 to 118, Title 17, US Code); the content and downloadable materials on the pages of this Web site are solely for the benefit of the students enrolled in these courses.
