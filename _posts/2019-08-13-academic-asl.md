@@ -26,7 +26,6 @@ Presentations should be filmed in front of a contrasting background (darker for 
 ### Lighting and Positioning
 Front lighting should appropriately highlight manual movements and facial expressions but not blow out the signer’s facial features nor create a chiaroscuro effect; backlighting should be removed or heavily minimized. Backgrounds should be solid and devoid of contrasting patterns.
 
-![image of a phone in portrait mode (no!) and landscape mode (yes!) for filming](http://intrpr.github.io/library/images/horiz-vs-vert.jpg)
 {% include figure.html image="http://intrpr.github.io/library/images/horiz-vs-vert.jpg" alt="image of a phone in portrait mode (no!) and landscape mode (yes!) for filming" %}
 
 With easy access to movie production software like [iMovie](https://www.apple.com/imovie), [Final Cut Pro](https://www.apple.com/final-cut-pro), or even [YouTube Studio](https://studio.youtube.com), adding on-screen titling/citations in post-production is a simple task. When filming yourself for a video presentation, especially an Academic ASL presentation, consider where you place yourself in the frame:
