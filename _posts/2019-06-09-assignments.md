@@ -2,7 +2,7 @@
 layout: post
 title: "Course Assignments"
 description:
-date: 2019-08-14
+date: 2019-08-20
 categories: ASL3370 assignments
 comments: true
 ---
