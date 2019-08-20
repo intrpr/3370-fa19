@@ -22,5 +22,10 @@ Tips for and portal to links dealing with how to give a public presentation. You
 ### [Pecha Kucha](https://wiobyrne.com/how-to-plan-present-survive-a-pecha-kucha-style-presentation)
 The Japanese have long figured out concise, efficient, and interesting ways to give presentations (e.g., [Takahashi Method](https://en.m.wikipedia.org/wiki/Takahashi_method) or [Kawasaki Method](https://guykawasaki.com/the_102030_rule)). More recently, the concept of [Pecha Kucha](https://paulgordonbrown.com/2014/12/13/your-ultimate-guide-to-giving-pechakucha-presentations) (ペチャクチャ, Japanese for 'chit chat'), like Kawasaki, encourages twenty slides at twenty seconds each. What impact does this have on how you organize your information?
 
+### [Tips for a TED talk-like presentation](https://www.apa.org/monitor/2017/02/tips-speaking)
+Although this is not a public speaking class, there is something to be said for capturing the intent of a signer’s text by creating equivalent [emotional](https://en.wikipedia.org/wiki/Emotional_prosody) [prosody](https://en.wikipedia.org/wiki/Prosody_(linguistics) in your delivery of the interpretation.
+
+> Bonus link: Julian Treasure teaches [how to use sound in presentations to improve conversational style](https://tedsummaries.com/2014/06/28/julian-treasure-how-to-speak-so-that-people-want-to-listen).
+
 ### [How to Start a Speech](https://www.youtube.com/watch?v=w82a1FT5o88) and [Improve Your Speaking](https://www.youtube.com/watch?v=c8_BIamLESg)
 Interesting pair of videos by public speaking instructor Conor Neill that are helpful in creating (beginning?) engaging presentations for people. 
