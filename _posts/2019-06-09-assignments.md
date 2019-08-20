@@ -16,7 +16,7 @@ Arguably, the most important technical task new interpreters can practice is the
 2. **In-class presentations**. While we will be spending time in developing signed language comprehension, our work together this semester will be primarily focused in advancing spoken language mastery. Following presentation criteria which we’ll determine in class, choose any topic and be prepared (impromptu) to give [TED Talks-like](http://www.ted.com) presentations for your classmates. Schedule to be determined in class; dates marked in <span class="c-badge c-badge-pill c-badge-info">teal</span>.
 3. **Creation of a video portfolio**. This is a 3:3:1 course; in other words, you get three credits in exchange for three weekly hours of coursework and one hour of lab work. Patrie’s Effective Interpreting Series is formatted as a workbook, perfect for capturing language lab self- and dyad-paced efforts. This semester you’ll be producing five interpretations from the Effective Interpreting Series text and then posting them (with/for commentary) in your GoREACT account. This exercise benefits in two ways: 1) you’re producing work and 2) you get helpful formative commentary on your work. Scary? Maybe. But super helpful. Did I mention you’re producing work? See the [class schedule](../08/schedule.html) for posting dates identified in <span class="c-badge c-badge-pill c-badge-success">green</span>.
 
-#### Participation grade breakdown
+### Participation grade breakdown
 {% include participation.html %}
 
 ## Critical reading and thinking
