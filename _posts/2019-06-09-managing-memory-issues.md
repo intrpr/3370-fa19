@@ -31,6 +31,7 @@ Howard Gardner proposed the concept of ‘multiple intelligences’ to challenge
 
 ### [Model human processor (Card, Moran, & Newell, 1983)](https://www.researchgate.net/figure/The-Model-Human-Processor-memories-and-processors-Card-Moran-Newell-1983-pp_fig11_242625827)
 [What is the brain doing](http://www-personal.umich.edu/~itm/688/wk7/CMN-ch2.PDF) when it’s processing and/or looking at information? <span class="c-badge c-badge-pill c-badge-danger">Required</span>
+![](https://www.researchgate.net/profile/Alison_Lee10/publication/242625827/figure/fig11/AS:669370787328001@1536601840015/The-Model-Human-Processor-memories-and-processors-Card-Moran-Newell-1983-pp_W640.jpg)
 
 ### [The science of automating and perfecting any skill](https://medium.com/life-learning/the-science-of-automating-and-perfecting-any-skill-ea89f55b5f3e#.2swu6q348)
 Achieving automaticity is about making a newly learned skill a part of who you are, as opposed to just a thing you can do. <span class="c-badge c-badge-pill c-badge-danger">Required</span>
