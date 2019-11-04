@@ -36,7 +36,7 @@ Howard Gardner proposed the concept of ‘multiple intelligences’ to challenge
 ### [The science of automating and perfecting any skill](https://medium.com/life-learning/the-science-of-automating-and-perfecting-any-skill-ea89f55b5f3e#.2swu6q348)
 Achieving automaticity is about making a newly learned skill a part of who you are, as opposed to just a thing you can do. <span class="c-badge c-badge-pill c-badge-danger">Required</span>
 
-### [How to learn in 2 days what normally takes 6 months](https://journal.thriveglobal.com/how-to-learn-in-2-days-what-normally-takes-6-months-af9a1556f66e)
+### [How to learn in two days what normally takes six months](https://journal.thriveglobal.com/how-to-learn-in-2-days-what-normally-takes-6-months-af9a1556f66e)
 Article reminds that process to learning skills and tasks is relatively straightforward (context-based learning): ‘learn’ a concept, practice/use it in a real-world scenario, get coaching and feedback, rinse and repeat.
 
 ### Those incredible interpreters
