@@ -18,7 +18,7 @@ comments: true
 </p>
 
 <p class="lead">
-Cognitive organization of a text can help interpreters mentally plan out <a href="http://intrpr.info/library/books/mindess-reading-between-the-signs.pdf">roadmap and signpost</a>, p. 224; Mindess, 2006) and know where the intent of a text or discourse is going.
+Cognitive organization of a text can help interpreters mentally plan out roadmap and signpost, p. 224; Mindess, 2006) and know where the intent of a text or discourse is going.
 </p>
 
 Here are some bullet points/learning outcomes of which we might want to be aware:
